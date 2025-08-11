@@ -38,21 +38,21 @@
 ## 🛒 E-Commerce App
 A user-friendly e-commerce application with **product listings, shopping cart, and secure checkout**.  
 Built using **Flutter, Web API, SQL Server**, and integrated **payment processing**.  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedtarek01141&repo=ecommerce-app&theme=radical)](https://github.com/mohamedtarek01141/ecommerceApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedtarek01141&repo=ecommerceApp&theme=radical)](https://github.com/mohamedtarek01141/ecommerceApp)
 
 ---
 
 ## 🏨 Hotel Booking System
 A comprehensive hotel booking platform for managing **reservations, room availability, and customer profiles**.  
 Developed with **ASP.NET Core, Angular, EF Core, SQL Server**, and follows **Clean Architecture**.  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedtarek01141&repo=hotel-booking-system&theme=radical)](https://github.com/mohamedtarek01141/HotelBookingSystem)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedtarek01141&repo=HotelBookingSystem&theme=radical)](https://github.com/mohamedtarek01141/HotelBookingSystem)
 
 ---
 
 ## 📦 Product Catalog App
 A modular application for managing **product catalogs, categories, and search features**.  
 Built using **.NET Core, Web API, Angular, EF Core, and Mapster**.  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedtarek01141&repo=product-catalog-app&theme=radical)](https://github.com/mohamedtarek01141/ProductCatalogApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedtarek01141&repo=ProductCatalogApp&theme=radical)](https://github.com/mohamedtarek01141/ProductCatalogApp)
 
 ---
 
