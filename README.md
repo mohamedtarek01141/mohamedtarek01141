@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/mohamed-tarek)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/mohamedtarek01141)
 
 # Hey there! I'm Mohamed Tarek Mohamed 👋🏼  
 
@@ -38,28 +38,28 @@
 ## 🛒 E-Commerce App
 A user-friendly e-commerce application with **product listings, shopping cart, and secure checkout**.  
 Built using **Flutter, Web API, SQL Server**, and integrated **payment processing**.  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamed-tarek&repo=ecommerce-app&theme=radical)](https://github.com/mohamedtarek01141/ecommerceApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedtarek01141&repo=ecommerce-app&theme=radical)](https://github.com/mohamedtarek01141/ecommerceApp)
 
 ---
 
 ## 🏨 Hotel Booking System
 A comprehensive hotel booking platform for managing **reservations, room availability, and customer profiles**.  
 Developed with **ASP.NET Core, Angular, EF Core, SQL Server**, and follows **Clean Architecture**.  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamed-tarek&repo=hotel-booking-system&theme=radical)](https://github.com/mohamedtarek01141/HotelBookingSystem)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedtarek01141&repo=hotel-booking-system&theme=radical)](https://github.com/mohamedtarek01141/HotelBookingSystem)
 
 ---
 
 ## 📦 Product Catalog App
 A modular application for managing **product catalogs, categories, and search features**.  
 Built using **.NET Core, Web API, Angular, EF Core, and Mapster**.  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamed-tarek&repo=product-catalog-app&theme=radical)](https://github.com/mohamedtarek01141/ProductCatalogApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamedtarek01141&repo=product-catalog-app&theme=radical)](https://github.com/mohamedtarek01141/ProductCatalogApp)
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohamed-tarek&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-tarek&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-tarek&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=mohamedtarek01141&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedtarek01141&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtarek01141&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
 
